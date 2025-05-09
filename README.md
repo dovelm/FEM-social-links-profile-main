@@ -51,9 +51,7 @@ Your users should be able to:
 
 ### Screenshots
 
-![]()
-
-![]()
+![mobile](https://github.com/dovelm/FEM-social-links-profile-main/blob/main/screenshots/mobile.PNG)
 
 
 ### Links
